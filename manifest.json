@@ -1,0 +1,22 @@
+{
+  "short_name": "ShieldX",
+  "name": "ShieldX Pest Control Services",
+  "description": "Professional Pest Control Services in Solapur. Safe, Fast, and Affordable.",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0B6E4F",
+  "display": "standalone",
+  "orientation": "portrait"
+}

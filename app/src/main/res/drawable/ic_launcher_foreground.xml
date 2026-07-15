@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Premium Shield -->
+    <path
+        android:pathData="M54,24 C40,24 30,28 30,36 L30,58 C30,74 54,84 54,84 C54,84 78,74 78,58 L78,36 C78,28 68,24 54,24 Z"
+        android:strokeWidth="4"
+        android:strokeColor="#F4B400">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="30"
+                android:startY="24"
+                android:endX="78"
+                android:endY="84">
+                <item android:color="#1B5E20" android:offset="0.0"/>
+                <item android:color="#0B6E4F" android:offset="1.0"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    
+    <!-- Stylized gold 'X' representing safety check and pest defense -->
+    <path
+        android:pathData="M44,42 L51,49 L64,36"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+        
+    <!-- Tiny cross intersection to represent the 'X' shield concept -->
+    <path
+        android:pathData="M64,48 L44,68"
+        android:strokeWidth="4"
+        android:strokeColor="#F4B400"
+        android:strokeLineCap="round" />
+</vector>
